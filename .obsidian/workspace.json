@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essay.md",
+                "file": "plnt/essay.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "essay.md",
+                "file": "plnt/essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "essay.md",
+                "file": "plnt/essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "essay.md"
+                "file": "plnt/essay.md"
               }
             }
           }
@@ -148,9 +148,9 @@
       "switcher:Abrir selector rápido": false
     }
   },
-  "active": "51c9eb5805465c87",
+  "active": "2484213a74ca59fa",
   "lastOpenFiles": [
-    "essay.md",
+    "plnt/essay.md",
     "plnt",
     "pry/raa/16 Resumen (abstract) de mi artículo.md",
     "diario/2024-02-16.md",
