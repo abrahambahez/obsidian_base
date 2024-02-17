@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "",
+  "literatureNoteContentTemplate": "# {{title}}\n{{authorString}} {{year}}, [zotero]({{zoteroSelectURI}})\n\n",
+  "markdownCitationTemplate": "@{{citekey}}",
+  "alternativeMarkdownCitationTemplate": "[@{{citekey}}]",
+  "citationExportPath": "librero.bib"
+}

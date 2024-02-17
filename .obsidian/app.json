@@ -1,0 +1,17 @@
+{
+  "showInlineTitle": false,
+  "vimMode": true,
+  "useTab": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Huichol",
+    "Gamio",
+    "reacomodo",
+    "etnogénesis",
+    "tianguis"
+  ],
+  "livePreview": false,
+  "strictLineBreaks": false,
+  "spellcheck": false
+}

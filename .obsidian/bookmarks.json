@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "inbox/+karma log.md",
+      "ctime": 1683081518776
+    },
+    {
+      "type": "file",
+      "ctime": 1693348332956,
+      "path": "src/prompts/jrnl.md",
+      "title": "Prompts escritura"
+    },
+    {
+      "type": "file",
+      "ctime": 1696217901968,
+      "path": "prj/personal/enfoque.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1696285406033,
+      "path": "notas/inbox de artículos.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1699317367855,
+      "path": "notas/✨enfoque.md",
+      "title": "✨ enfoque"
+    },
+    {
+      "type": "file",
+      "ctime": 1700143506882,
+      "path": "notas/2023-11-15.md",
+      "title": "Diplomado trabajo final"
+    },
+    {
+      "type": "search",
+      "ctime": 1701185405861,
+      "query": "file:/^§|^~/",
+      "title": "Índices"
+    },
+    {
+      "type": "search",
+      "ctime": 1701185462725,
+      "query": "task-todo:\"\" path:notas",
+      "title": "Tareas en notas"
+    },
+    {
+      "type": "file",
+      "ctime": 1706924990077,
+      "path": "snippets/libreoffice docs.md"
+    },
+    {
+      "type": "file",
+      "ctime": 1707446594209,
+      "path": "pry/raa/§ agencia, escala y etnicidad.md"
+    }
+  ]
+}

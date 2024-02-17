@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "09d3c033190799e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6ab5268908b5586",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51c9eb5805465c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essay.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbb44db409752bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "84e96e4c4f1a64bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2484213a74ca59fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6f4647bf8d2a475",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"guerra social\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13e2ced667f4e9c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75939c538e1adad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1b7099063801b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41d498bf2d42dcb7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "essay.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "752dd5121c1af6c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "essay.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "82663060fbe80e55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a95265c473de7ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "essay.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Abrir paleta de comandos": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "switcher:Abrir selector rápido": false
+    }
+  },
+  "active": "51c9eb5805465c87",
+  "lastOpenFiles": [
+    "essay.md",
+    "plnt",
+    "pry/raa/16 Resumen (abstract) de mi artículo.md",
+    "diario/2024-02-16.md",
+    "pry/raa/tareas.md",
+    "pry/raa/argumento.md",
+    "pry/raa/§ agencia, escala y etnicidad.md",
+    "@restrepo2004a.md",
+    "pry/raa/Selecciona una revista.md",
+    "pry/raa/Selección del artículo.md",
+    "pry/raa/17 Lo que aprendí del artículo modelo.md",
+    "@vargheese&al2016.md",
+    "mi proceso de toma de notas 2023.md",
+    "inbox",
+    "-log ztk.md",
+    "-log podcasts.md",
+    "-log apps de notas.md",
+    "_sergio-barrera-m5s2.md",
+    "pry/am",
+    "pry",
+    "pry/raa/03 Mis sentimientos sobre la experiencia de escribir..md",
+    "pry/raa/05 Lecciones que debo aprender de mis experiencias positivas con la escritura.md",
+    "pry/raa/04 Elementos comunes en mis sentimientos negativos acerca de escribir.md",
+    "pry/raa/00 Compromiso entre colaboradores de redacción.md",
+    "raa/decisiones.md",
+    "escribir un artículo en 12 semanas.md",
+    "@belcher2010.md",
+    "raa/@belcher2010 ejercicios 1.md",
+    "pry/raa/14 Sobre qué trata mi artículo y lo que aprendí escribiendo ese ejercicio.md",
+    "pry/raa/13 Explicaciones sobre lo que debo revisar en mi texto para vincular lo nuevo con lo viejo.md",
+    "pry/raa/15 Lista de tareas de revisión del artículo basado en un tema de mi tesis.docx",
+    "pry/raa/17 Lo que aprendí del artículo modelo.docx",
+    "pry/raa/14 Sobre qué trata mi artículo y lo que aprendí escribiendo ese ejercicio.docx",
+    "pry/raa/13 Explicaciones sobre lo que debo revisar en mi texto para vincular lo nuevo con lo viejo.docx",
+    "pry/raa/12 Explicación sobre qué tiene de novedoso mi artículo.docx",
+    "pry/raa/11 Tabla de soluciones a los obstáculos e interrupciones.docx",
+    "Pasted image 20240207170131.png",
+    "Pasted image 20240207170107.png",
+    "export/_presentacion_oit/copo-letrero-atencion.png",
+    "export/_presentacion_oit/oit_mapa_ratificaciones.png",
+    "export/_presentacion_oit/oit_lista_ratificaciones.png",
+    "export/_presentacion_oit/plugin/chalkboard/img/whiteboard.png",
+    "export/_presentacion_oit/plugin/chalkboard/img/blackboard.png",
+    "export/_presentacion_oit/plugin/chalkboard/img/chalk-purple.png",
+    "export/_presentacion_oit/plugin/chalkboard/img/chalk-white.png",
+    "export/_presentacion_oit/plugin/chalkboard/img/chalk-blue.png"
+  ]
+}
