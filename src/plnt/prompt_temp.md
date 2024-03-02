@@ -1,0 +1,11 @@
+---
+PromptInfo:
+    promptId: 
+    name: 
+    description:
+    tags:
+    author:
+    version:
+bodyParams:
+    max_tokens:
+---

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f6ab5268908b5586",
+        "id": "51eb5007b0ddf6f5",
         "type": "tabs",
         "children": [
           {
-            "id": "51c9eb5805465c87",
+            "id": "4b269b03dfdad372",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "plnt/essay.md",
+                "file": "src/plnt/essay.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plnt/essay.md",
+                "file": "src/plnt/essay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "plnt/essay.md",
+                "file": "src/plnt/essay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "plnt/essay.md"
+                "file": "src/plnt/essay.md"
               }
             }
           }
@@ -148,10 +148,22 @@
       "switcher:Abrir selector rápido": false
     }
   },
-  "active": "2484213a74ca59fa",
+  "active": "4b269b03dfdad372",
   "lastOpenFiles": [
-    "plnt/essay.md",
-    "plnt",
+    "src/plnt/prompt_temp.md",
+    "§ Esquema general del proyecto.md",
+    "src/plnt/essay.md",
+    "README.md",
+    "src/pandoc/locales-es-MX.xml",
+    "src/pandoc/locales-es-ES.xml",
+    "src/pandoc/locales-en-US.xml",
+    "src/pandoc/escuela-nacional-de-antropologia-e-historia-author-date.csl",
+    "src/pandoc/apa.csl",
+    "src/pandoc",
+    "pandoc/locales-es-MX.xml",
+    "pandoc/locales-es-ES.xml",
+    "pandoc/locales-en-US.xml",
+    "pandoc/escuela-nacional-de-antropologia-e-historia-author-date.csl",
     "pry/raa/16 Resumen (abstract) de mi artículo.md",
     "diario/2024-02-16.md",
     "pry/raa/tareas.md",
@@ -163,13 +175,10 @@
     "pry/raa/17 Lo que aprendí del artículo modelo.md",
     "@vargheese&al2016.md",
     "mi proceso de toma de notas 2023.md",
-    "inbox",
     "-log ztk.md",
     "-log podcasts.md",
     "-log apps de notas.md",
     "_sergio-barrera-m5s2.md",
-    "pry/am",
-    "pry",
     "pry/raa/03 Mis sentimientos sobre la experiencia de escribir..md",
     "pry/raa/05 Lecciones que debo aprender de mis experiencias positivas con la escritura.md",
     "pry/raa/04 Elementos comunes en mis sentimientos negativos acerca de escribir.md",
@@ -177,15 +186,6 @@
     "raa/decisiones.md",
     "escribir un artículo en 12 semanas.md",
     "@belcher2010.md",
-    "raa/@belcher2010 ejercicios 1.md",
-    "pry/raa/14 Sobre qué trata mi artículo y lo que aprendí escribiendo ese ejercicio.md",
-    "pry/raa/13 Explicaciones sobre lo que debo revisar en mi texto para vincular lo nuevo con lo viejo.md",
-    "pry/raa/15 Lista de tareas de revisión del artículo basado en un tema de mi tesis.docx",
-    "pry/raa/17 Lo que aprendí del artículo modelo.docx",
-    "pry/raa/14 Sobre qué trata mi artículo y lo que aprendí escribiendo ese ejercicio.docx",
-    "pry/raa/13 Explicaciones sobre lo que debo revisar en mi texto para vincular lo nuevo con lo viejo.docx",
-    "pry/raa/12 Explicación sobre qué tiene de novedoso mi artículo.docx",
-    "pry/raa/11 Tabla de soluciones a los obstáculos e interrupciones.docx",
     "Pasted image 20240207170131.png",
     "Pasted image 20240207170107.png",
     "export/_presentacion_oit/copo-letrero-atencion.png",
